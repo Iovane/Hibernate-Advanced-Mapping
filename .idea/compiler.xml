@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="solution-code-hibernate-hb-map-collections (1)" />
+        <module name="solution-code-hibernate-hb-map-collections" />
+        <module name="solution-code-hibernate-hb-01-map-collections-set (1)" />
+        <module name="solution-code-hibernate-hb-01-map-collections-set" />
+        <module name="solution-code-hibernate-hb-05-map-collections-sorted-map" />
+        <module name="solution-code-hibernate-hb-map-collections (7)" />
+        <module name="solution-code-hibernate-hb-map-collections (6)" />
+        <module name="solution-code-hibernate-hb-map-collections (5)" />
+        <module name="solution-code-hibernate-hb-map-collections (4)" />
+        <module name="solution-code-hibernate-hb-map-collections (3)" />
+        <module name="solution-code-hibernate-hb-map-collections (2)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

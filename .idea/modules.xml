@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Advanced Mappings.iml" filepath="$PROJECT_DIR$/.idea/Advanced Mappings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-hibernate-hb-01-map-collections-set/solution-code-hibernate-hb-01-map-collections-set.iml" filepath="$PROJECT_DIR$/solution-code-hibernate-hb-01-map-collections-set/solution-code-hibernate-hb-01-map-collections-set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-hibernate-hb-04-map-collections-sorted-set/solution-code-hibernate-hb-01-map-collections-set (1).iml" filepath="$PROJECT_DIR$/solution-code-hibernate-hb-04-map-collections-sorted-set/solution-code-hibernate-hb-01-map-collections-set (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-hibernate-hb-05-map-collections-sorted-map/solution-code-hibernate-hb-05-map-collections-sorted-map.iml" filepath="$PROJECT_DIR$/solution-code-hibernate-hb-05-map-collections-sorted-map/solution-code-hibernate-hb-05-map-collections-sorted-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-enum/solution-code-hibernate-hb-map-collections.iml" filepath="$PROJECT_DIR$/solution-code-hibernate-hb-map-enum/solution-code-hibernate-hb-map-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-components/solution-code-hibernate-hb-map-collections (1).iml" filepath="$PROJECT_DIR$/solution-code-hibernate-hb-map-components/solution-code-hibernate-hb-map-collections (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-hibernate-hb-03-map-collections-map/solution-code-hibernate-hb-map-collections (2).iml" filepath="$PROJECT_DIR$/solution-code-hibernate-hb-03-map-collections-map/solution-code-hibernate-hb-map-collections (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-hibernate-hb-02-map-collections-list/solution-code-hibernate-hb-map-collections (3).iml" filepath="$PROJECT_DIR$/solution-code-hibernate-hb-02-map-collections-list/solution-code-hibernate-hb-map-collections (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-03-joined/solution-code-hibernate-hb-map-collections (4).iml" filepath="$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-03-joined/solution-code-hibernate-hb-map-collections (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-01-singletable/solution-code-hibernate-hb-map-collections (5).iml" filepath="$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-01-singletable/solution-code-hibernate-hb-map-collections (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-02-tableperclass/solution-code-hibernate-hb-map-collections (6).iml" filepath="$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-02-tableperclass/solution-code-hibernate-hb-map-collections (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-04-mappedsuperclass/solution-code-hibernate-hb-map-collections (7).iml" filepath="$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-04-mappedsuperclass/solution-code-hibernate-hb-map-collections (7).iml" />
+    </modules>
+  </component>
+</project>

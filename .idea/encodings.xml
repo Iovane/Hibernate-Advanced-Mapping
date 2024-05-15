@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-01-map-collections-set/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-01-map-collections-set/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-02-map-collections-list/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-02-map-collections-list/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-03-map-collections-map/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-03-map-collections-map/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-04-map-collections-sorted-set/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-04-map-collections-sorted-set/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-05-map-collections-sorted-map/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-05-map-collections-sorted-map/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-components/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-components/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-enum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-enum/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-01-singletable/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-01-singletable/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-02-tableperclass/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-02-tableperclass/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-03-joined/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-03-joined/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-04-mappedsuperclass/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-04-mappedsuperclass/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

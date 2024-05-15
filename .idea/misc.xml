@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-hibernate-hb-map-enum/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-hibernate-hb-map-components/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-hibernate-hb-01-map-collections-set/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-hibernate-hb-03-map-collections-map/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-hibernate-hb-02-map-collections-list/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-03-joined/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-hibernate-hb-04-map-collections-sorted-set/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-hibernate-hb-05-map-collections-sorted-map/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-01-singletable/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-02-tableperclass/pom.xml" />
+        <option value="$PROJECT_DIR$/solution-code-hibernate-hb-map-inheritance-04-mappedsuperclass/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
